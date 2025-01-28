@@ -24,5 +24,8 @@ Pandas library
 
 NumPy library.
 
+## Key insights
+How to write efficient and well-documented Python code, and the usage of popular libraries were mastered.
+
 
 
