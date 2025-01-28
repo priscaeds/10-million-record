@@ -22,7 +22,7 @@ Python
 
 Pandas library
 
-NumPy library
+NumPy library.
 
 
 
